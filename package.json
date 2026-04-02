@@ -1,6 +1,6 @@
 {
   "name": "@agenson-horrowitz/structured-data-validator-mcp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "MCP server for validating, transforming, and normalizing structured data - built specifically for AI agents",
   "main": "dist/index.js",
   "bin": {
